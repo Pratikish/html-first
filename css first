@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -12,12 +12,30 @@ p {
   font-family: courier;
   font-size: 160%;
 }
+ul {color: blue;
+  font-family: verdana;
+  font-size: 100% ;}
+
 </style>
+
 </head>
-<body>
-<h1>Pratik Tripathi</h1>
-<h3>This is my Styling Page</h3>
+<body background-color="yellow";>
+<h1><b>Pratik Tripathi</b></h1>
+<h2>This is my Styling Page</h2>
 <p>This is a paragraph.</p>
+<ul>
+<li>Use the HTML style attribute for inline styling</li>
+<li>Use the HTML style element to define internal CSS</li>
+<li>Use the HTML link element to refer to an external CSS file</li>
+<li>Use the HTML head element to store style and link elements</li>
+<li>Use the CSS color property for text colors</li>
+<li>Use the CSS font-family property for text fonts</li>
+<li>Use the CSS font-size property for text sizes</li>
+<li>Use the CSS border property for borders</li>
+<li>Use the CSS padding property for space inside the border</li>
+<li>Use the CSS margin property for space outside the border</li>
+<li>Tip You can learn much more about CSS in our CSS</li>
+</ul>
 
 </body>
 </html>
